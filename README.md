@@ -1,5 +1,7 @@
-# READMEFIRST
+<img width="393" height="657" alt="image" src="https://github.com/user-attachments/assets/32ff20f9-e156-41da-88ba-5bdcf2b7ebba" /># READMEFIRST
 ## Data_Board
 这是一个用Java编写的广告数据展示程序，采用面向对象设计思想重构，能够从Excel文件读取广告数据，展示广告花费、线索数量等关键指标，并提供多日期数据对比分析功能。程序支持数据自动计算（单个线索成本、私信转化成本）和趋势分析，具备良好的可扩展性和维护性。
 ## Data_Board_Spring_Boot
 是一个基于Spring Boot开发的广告数据管理和分析平台，旨在帮助广告投放者跟踪、分析和优化广告投放效果。该项目提供了简洁的REST API接口，支持广告数据的查询和录入，并内置了基础的数据分析功能。
+## Data_Board_DBS
+Data_Board_Maven_DBS 是一个基于 Spring Boot 的广告活动数据管理和分析系统，旨在帮助用户跟踪、存储和分析广告投放效果数据。该系统提供了数据的增删改查功能，并内置了多种数据分析方法，便于用户评估广告投放的 ROI (投资回报率)。
