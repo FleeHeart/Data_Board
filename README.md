@@ -1,4 +1,4 @@
-<img width="393" height="657" alt="image" src="https://github.com/user-attachments/assets/32ff20f9-e156-41da-88ba-5bdcf2b7ebba" /># READMEFIRST
+# READMEFIRST
 ## Data_Board
 这是一个用Java编写的广告数据展示程序，采用面向对象设计思想重构，能够从Excel文件读取广告数据，展示广告花费、线索数量等关键指标，并提供多日期数据对比分析功能。程序支持数据自动计算（单个线索成本、私信转化成本）和趋势分析，具备良好的可扩展性和维护性。
 ## Data_Board_Spring_Boot
